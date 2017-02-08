@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hojinjosephchoi/study-connection-nodejs-databases/issues"
   },
-  "homepage": "https://github.com/hojinjosephchoi/study-connection-nodejs-databases#readme"
+  "homepage": "https://github.com/hojinjosephchoi/study-connection-nodejs-databases#readme",
+  "dependencies": {
+    "orientjs": "^2.2.4"
+  }
 }
