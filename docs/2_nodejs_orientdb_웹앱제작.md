@@ -1,0 +1,15 @@
+# nodejs + OrientDB 웹앱제작
+
+## 구현계획
+
+- get('/topic') : view.jade
+- get('/topic/:id') : view.jade
+- get('/topic/add') : add.jade
+	- post ('/topic/add')
+	- get ('/topic/:id')
+- get('/topic/:id/edit') : edit.jade
+	- post ('/topic/:id/edit')
+	- get ('/topic/:id')
+- get('/topic/:id/delete') : delete.jade
+	- post ('/topic/:id/delete')
+	- get ('/topic')

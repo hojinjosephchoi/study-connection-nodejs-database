@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/hojinjosephchoi/study-connection-nodejs-databases#readme",
   "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "jade": "^1.11.0",
     "orientjs": "^2.2.4"
   }
 }
