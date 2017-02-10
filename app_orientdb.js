@@ -154,7 +154,7 @@ app.get(['/topic', '/topic/:id'], (req, res) => {
 
         var id = req.params.id;
         if (id) {
-            var selectSql = 'SELECT FROM topic WHERE @rid = :rid';
+            var selectSql = 'SELECT * FROM topic WHERE @rid = :rid';
             var param = {
                 params: {
                     rid: id

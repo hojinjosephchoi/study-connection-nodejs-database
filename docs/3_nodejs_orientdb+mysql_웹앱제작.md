@@ -1,4 +1,4 @@
-# nodejs + OrientDB 웹앱제작
+# nodejs + OrientDB / MySQL 웹앱제작
 
 ## 구현계획
 
